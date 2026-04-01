@@ -1,0 +1,3 @@
+#!/bin/bash
+mv /tmp/faith /tmp/faith_directory/
+
